@@ -415,7 +415,9 @@ const App = () => {
         </div>
 
         <button type="submit">Submit</button>
+        <br />
         <button type="submit">Test</button>
+        <br />
         <button type="button">testing github</button>
       </form>
 
