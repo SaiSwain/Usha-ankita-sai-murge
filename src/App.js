@@ -415,6 +415,7 @@ const App = () => {
         </div>
 
         <button type="submit">Submit</button>
+        <button type="submit">Test</button>
       </form>
 
       <ToastContainer position="top-center" autoClose={5000} hideProgressBar />
