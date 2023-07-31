@@ -47,7 +47,7 @@ button:hover {
   column-gap: 70px;
 }
 .error-message{
-  color: red;
+  color: blue;
 }
 .span{
   width: 100%;
